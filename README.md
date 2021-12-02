@@ -17,7 +17,7 @@ Never stop learning and craving for development.<br>
 - English : understand Error messages
 - Japanese : fluent
 - Swahili : intermediate
-- chinese : 5 years old 😛
+- Chinese : 5 years old 😛
 
 
 📧 **email**: bangwooju.dev@gmail.com <br>
