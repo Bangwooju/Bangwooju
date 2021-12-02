@@ -1,8 +1,19 @@
-### Hi there 👋
+### say Hello, Universe! 👋
+I'm proactive Backend Developer who loves to find bugs 🐛<br>
+Never stop learning and craving for development.<br>
+I have learned Swahili, Japanese, And Accounting (Language of Business) and keep learning programming languages.😛
 
+### Skills
+- Back-End : Java, Spring FrameWorks, Mybatis
+- Front-End : HTML, CSS, JavaScript, aJax
+- Database : Mariadb
+- Tools : Eclipse, VSCode
+- Never give up
 
+### Project
+- WelcomeToJeju
 
-
+📧 **email**: bangwooju.dev@gmail.com
 
 <!--
 **Bangwooju/Bangwooju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
