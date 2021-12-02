@@ -19,8 +19,8 @@ Never stop learning and craving for development.<br>
 - chinese : 5 years old 😛
 
 
-📧 **email**: bangwooju.dev@gmail.com
-
+📧 **email**: bangwooju.dev@gmail.com <br>
+✔️ **tistory: [space-coding.tistory.com](https://space-coding.tistory.com/)**
 <!--
 **Bangwooju/Bangwooju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
