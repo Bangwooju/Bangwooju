@@ -13,6 +13,7 @@ Never stop learning and craving for development.<br>
 - WelcomeToJeju
 
 ### Languages
+- Korean : fluent
 - English : understand Error messages
 - Japanese : fluent
 - Swahili : intermediate
