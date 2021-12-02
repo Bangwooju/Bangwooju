@@ -1,7 +1,6 @@
 ### say Hello, Universe! 👋
-I'm proactive Backend Developer who loves to find bugs 🐛<br>
+I'm proactive Backend Developer who loves to fix bugs 🐛<br>
 Never stop learning and craving for development.<br>
-I have learned Swahili, Japanese, And Accounting (Language of Business) and keep learning programming languages.😛
 
 ### Skills
 - Back-End : Java, Spring FrameWorks, Mybatis
@@ -12,6 +11,13 @@ I have learned Swahili, Japanese, And Accounting (Language of Business) and keep
 
 ### Project
 - WelcomeToJeju
+
+### Languages
+- English : understand Error messages
+- Japanese : fluent
+- Swahili : intermediate
+- chinese : 5 years old 😛
+
 
 📧 **email**: bangwooju.dev@gmail.com
 
