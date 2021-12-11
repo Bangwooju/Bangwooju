@@ -8,7 +8,7 @@ Never stop learning and craving for development.<br>
 - Database : Mariadb
 - Server : Tomcat
 - Tools : Eclipse, VSCode
-- Other : Gradle, Github, Visual Studio Code
+- Other : Gradle, Github
 - Never give up
 
 ### Project
