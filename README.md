@@ -6,7 +6,9 @@ Never stop learning and craving for development.<br>
 - Back-End : Java, Spring FrameWorks, Mybatis
 - Front-End : HTML, CSS, JavaScript, aJax
 - Database : Mariadb
+- Server : Tomcat
 - Tools : Eclipse, VSCode
+- Other : Gradle, Github, Visual Studio Code
 - Never give up
 
 ### Project
