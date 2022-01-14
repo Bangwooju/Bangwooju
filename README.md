@@ -7,8 +7,8 @@ Never stop learning and craving for development.<br>
 - Front-End : HTML, CSS, JavaScript, aJax
 - Database : Mariadb
 - Server : Tomcat
-- Tools : Eclipse, VSCode
-- Other : Gradle, Github
+- Tools : Eclipse, VSCode, Gradle
+- Other : Github
 - Never give up
 
 ### Project
