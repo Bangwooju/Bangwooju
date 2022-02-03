@@ -8,7 +8,8 @@ Never stop learning and craving for development.<br>
 - Database : Mariadb, Oracle
 - Server : Tomcat
 - Tools : Eclipse, VSCode, Gradle, DBeaver, Maven
-- SCM : Github, SVN
+- Others : Github
+- SCM : SVN
 - Never give up
 
 ### Project
