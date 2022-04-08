@@ -12,8 +12,10 @@ Never stop learning and craving for development.<br>
 - SCM : SVN
 - Never give up
 
+<!--
 ### Project
 - [WelcomeToJeju](https://github.com/Bangwooju/WelcomeToJeju) 
+-->
 
 ### Languages
 - Korean : fluent
