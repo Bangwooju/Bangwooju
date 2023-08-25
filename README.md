@@ -30,7 +30,7 @@ Never stop learning and craving for development.<br>
  - HR Management which synchronizing to openLDAP And Approval Management Product (2023.04 ~ ing)
  - DLP & SEP Management Product (2023.04 ~ ing)
 
-Now I'm working at Security Solution Company and learning about Data Security :>
+Now I'm working at security solution company and learning about data security :>
 
 📧 **email**: bangwooju.dev@gmail.com <br>
 ✔️ **tistory: [space-coding.tistory.com](https://space-coding.tistory.com/)**
