@@ -19,7 +19,7 @@ Never stop learning and craving for development.<br>
 
 ### Languages
 - Korean : fluent
-- English : understand Error messages
+- English : understand the Error messages
 - Japanese : fluent
 - Swahili : intermediate
 - Chinese : 5 years old 😛
@@ -27,10 +27,11 @@ Never stop learning and craving for development.<br>
 ### Experience
 > development
  - ERP Project (2022.01 ~ 2023.03)
- - HR Management which synchronizing to openLDAP And Approval Management Product (2023.04 ~ ing)
- - DLP & SEP Management Product (2023.04 ~ ing)
+ - HR Management which synchronizing to openLDAP and Approval Management Product (2023.04 ~ 2024.04)
+ - DLP & SEP Management Product (2023.04 ~ 2024.04)
+ - Data Platform, Digital Twin, Digital Transformation Product (2025.01 ~ ing)
 
-Now I'm working at security solution company and learning about data security :>
+contact me through below channels :>
 
 📧 **email**: bangwooju.dev@gmail.com <br>
 ✔️ **tistory: [space-coding.tistory.com](https://space-coding.tistory.com/)**
